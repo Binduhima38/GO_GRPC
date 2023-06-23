@@ -49,4 +49,5 @@ git push
 
 ```
 git checkout B2
+git push
 ```
