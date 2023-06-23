@@ -37,3 +37,7 @@ To establish connection to remote branch
 ```
 git push --set-upstream origin B1
 ```
+This will work because in the before step i established the connection
+```
+git push
+```
