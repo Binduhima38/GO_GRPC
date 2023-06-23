@@ -23,3 +23,9 @@ How to add local config
 ```
 git config --local user.email "edemohankrishna1995@gmail.com"
 ```
+when we do `git log` head is pointed to master HEAD -> master
+
+This command will send the committed files to remote
+```
+git push origin master
+```
