@@ -32,3 +32,8 @@ git status
 git commit -m "commit message"
 git push origin master
 ```
+
+To establish connection to remote branch
+```
+git push --set-upstream origin B1
+```
