@@ -51,3 +51,8 @@ git push
 git checkout B2
 git push
 ```
+### Approach 3
+```
+git checkout -b B3
+git push origin B3
+```
