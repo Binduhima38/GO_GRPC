@@ -32,12 +32,21 @@ git status
 git commit -m "commit message"
 git push origin master
 ```
-
+### Approach 1
 To establish connection to remote branch
+
 ```
+git branch B1
+git checkout B1
 git push --set-upstream origin B1
 ```
 This will work because in the before step i established the connection
 ```
 git push
+```
+
+### Approach 2
+
+```
+git checkout B2
 ```
