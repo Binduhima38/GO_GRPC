@@ -27,5 +27,8 @@ when we do `git log` head is pointed to master HEAD -> master
 
 This command will send the committed files to remote
 ```
+git add .
+git status
+git commit -m "commit message"
 git push origin master
 ```
