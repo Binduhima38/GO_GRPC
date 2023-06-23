@@ -51,3 +51,9 @@ git push
 git checkout B2
 git push
 ```
+### Approach 3
+```
+git checkout -b B3
+git push origin B3
+```
+if we do `git push` it won't work because upstream branch is not linked
