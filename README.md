@@ -32,6 +32,7 @@ git status
 git commit -m "commit message"
 git push origin master
 ```
+Different approaches for pushing files to remote
 ### Approach 1
 To establish connection to remote branch
 
