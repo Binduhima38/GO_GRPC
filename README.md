@@ -58,3 +58,5 @@ git checkout -b B3
 git push origin B3
 ```
 if we do `git push` it won't work because upstream branch is not linked
+
+First check the local device for credential manager if credential are valid.
